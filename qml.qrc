@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>RecipeDetails.qml</file>
+        <file>RecipeList.qml</file>
+        <file>lumberjackstack.jpg</file>
+        <file>water.jpg</file>
+    </qresource>
+</RCC>
